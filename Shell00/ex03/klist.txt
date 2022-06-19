@@ -1,0 +1,6 @@
+Credentials cache: API:2F78F414-15E1-47ED-83E2-CCB7262F9133
+        Principal: spetrosy@42YEREVAN.AM
+
+  Issued                Expires               Principal
+Feb  8 12:11:23 2022  Feb  8 22:11:23 2022  krbtgt/42YEREVAN.AM@42YEREVAN.AM
+Feb  8 12:11:25 2022  Feb  8 22:11:23 2022  HTTP/storage.42yerevan.am@42YEREVAN.AM
